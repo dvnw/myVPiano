@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f193d7b-f8ec-43d2-bb34-4c7ef9f1be2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fjm5YuvSocSZ1qf3467rMZWm1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files (x86)/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\WebstormProjects\Virtual Piano\Virtual Piano (1)\task\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f193d7b-f8ec-43d2-bb34-4c7ef9f1be2e" name="Default Changelist" comment="" />
+      <created>1596739693979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596739693979</updated>
+      <workItem from="1596739719511" duration="562000" />
+      <workItem from="1597063630900" duration="853000" />
+      <workItem from="1597163422741" duration="1563000" />
+      <workItem from="1597241451045" duration="3893000" />
+      <workItem from="1598441131673" duration="15176000" />
+      <workItem from="1598527053564" duration="10970000" />
+      <workItem from="1598617116990" duration="18461000" />
+      <workItem from="1598640714150" duration="4711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="149" key="#Deployment" timestamp="1598646850427">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Deployment/0.0.1280.984@0.0.1280.984" timestamp="1598646850427" />
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597164054933">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1597164054933" />
+    <state x="407" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598640530951">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="407" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1598640530951" />
+    <state x="419" y="245" key="FileChooserDialogImpl" timestamp="1598548364390">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="419" y="245" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1598548364390" />
+    <state x="512" y="388" key="Github.ShareDialog" timestamp="1598649048148">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="512" y="388" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1598649048148" />
+    <state width="1236" height="258" key="GridCell.Tab.0.bottom" timestamp="1598641700740">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="258" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1598641700740" />
+    <state width="1236" height="258" key="GridCell.Tab.0.center" timestamp="1598641700740">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="258" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1598641700740" />
+    <state width="1236" height="258" key="GridCell.Tab.0.left" timestamp="1598641700739">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="258" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1598641700739" />
+    <state width="1236" height="258" key="GridCell.Tab.0.right" timestamp="1598641700740">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="258" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1598641700740" />
+    <state x="347" y="91" width="585" height="801" key="find.popup" timestamp="1598548377759">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="347" y="91" width="585" height="801" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1598548377759" />
+  </component>
+</project>
