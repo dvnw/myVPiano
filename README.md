@@ -1,5 +1,5 @@
 Turn your keyboard into a virtual piano and let the music be!
 
-By Amed Ajibola {Crowd-taught web developer}
+By Amed Ajibola
 On twitter: @amedajibola / @fitcoderness
 
